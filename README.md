@@ -1,2 +1,2 @@
 # leidert.org die offizielle Familien Webseite der familie Leidert
-[Zur Webseite](leidert.org)
+[Zur Webseite](https://www.leidert.org)
