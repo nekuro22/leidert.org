@@ -37,7 +37,7 @@ Da der Mars kaum Stickstoff besitzt, der für eine stabile Atmosphäre und das P
 
 Das ist nur eine Möglichkeit man muss aber beachten das der Mars im schlimsten fall 1,7 Milliarden km vom Titan entfernt ist. Das heißt das man auch andere lösungen in betracht ziehen müsste.
 
-## 3. Hydrosphäre und Bodenaufbereitung
+## 3. Wasser und Bodenaufbereitung
 
 Ein entscheidender Nebeneffekt der lasergestützten Erwärmung ist die Freisetzung von Wasser.
 
@@ -54,12 +54,12 @@ Die Installation des Lebens erfolgt in mehreren Etappen, um ökologische Instabi
 1. **Phytoplankton:** Erstbesiedlung der neuen Ozeane; dient als Basis der Nahrungskette und produziert weiteren Sauerstoff.
 2. **Zooplankton & Fauna:** Ansiedlung von kleinen Krebsen, Fischen und schließlich größeren Meeressäugern (Haie, Wale).
 
-### Terrestrische Biosphäre
+### Erdgebundene Biosphäre
 
 - **Pionierpflanzen:** Einsatz von Arten vulkanischer Inseln der Erde, die an aschehaltige Böden angepasst sind (Flechten, Moose).
 - **Wälder:** Bäume würden aufgrund der geringen Schwerkraft sehr schnell sehr hoch wachsen. Ihre Wurzeln beschleunigen die Zersetzung von Gestein in fruchtbaren Boden.
 
-## 5. Chemische Prozesse zur lokalen Ressourcennutzung (In-Situ)
+## 5. Chemische Prozesse zur lokalen Ressourcennutzung
 
 Für erste Stationen und die Energieversorgung können bekannte chemische Reaktionen genutzt werden:
 
@@ -76,22 +76,7 @@ Das MOXIE-Experiment der NASA hat bereits erfolgreich die Gewinnung von Sauersto
 Ohne schützende Maßnahmen würde die neue Atmosphäre durch den Sonnenwind erodiert werden.
 
 - **Künstliches Magnetfeld:** Installation eines magnetischen Schutzfeldes am Mars-Sonne-Lagrange-Punkt (L1). Ein supraleitender Ring, betrieben durch Kernkraft, könnte den Sonnenwind um den Planeten herumlenken.
+- **Künstlicher Plasama Ring** Auch möglich wäre es einen Ring aus Plasma um den Mars zu ziehen der den Ionisiert wird.
+das Plasma könnte man dabei erhalten in dem man den Mars Mond Phobos mittels einen Fusionsgeneartor und Gas/Plasma Verteilern abbaut
 - **Ökologisches Management:** Das System muss über Jahrhunderte überwacht werden. Ein zu schnelles Pflanzenwachstum könnte durch übermäßige CO₂-Bindung zu einer globalen Abkühlung und zum Kollaps der Nahrungskette führen.
 
-## 7. Aktuelle Forschungsfelder: Erkundung mittels UAVs
-
-Zur Vorbereitung dieser Maßnahmen ist eine präzise Erkundung der Marsoberfläche nötig. Konzepte europäischer Studenten (Euroavia/ESA) sehen unbemannte Luftfahrzeuge (UAVs) vor, die Vorteile gegenüber Rovern (Reichweite) und Orbitern (Auflösung) bieten:
-
-- **ARMaDA:** Fokus auf Bodenanalyse und Landplatzsuche für zukünftige Missionen.
-- **MAREA:** Autonomes Flugzeug mit aufblasbaren Flügeln zur Untersuchung von Topografie und Magnetfeld.
-- **KLIMars:** Ein Biplan-Design zur Überwachung lokaler Wetterbedingungen und Staubvorkommen (z. B. Staubteufel).
-
-## Wichtige Zitate und Erkenntnisse
-
-> „Um die Probleme des Planeten zu lösen, müssen wir ihn zunächst [...] in einen Lavaozean verwandeln."
-
-> „In Mars' niedriger Gravitation können Bäume sehr schnell sehr hoch werden."
-
-> „Eine Marslandung ist eine 20 [auf einer Skala von 1 bis 10]!" – NASA zur Komplexität der Marslandung
-
-> „Staubteufel reinigen die Solarmodule" – lebensverlängernder Faktor für frühere Rover-Missionen (Spirit/Opportunity)
