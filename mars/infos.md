@@ -2,11 +2,9 @@
 
 Strategien und technologische Ansätze zum Terraforming des Mars
 
-Dieses Briefing-Dokument synthetisiert die untersuchten Konzepte, wissenschaftlichen Daten und technologischen Visionen zur Umwandlung des Mars in einen bewohnbaren Planeten. Es basiert auf Analysen zur Ressourcengewinnung, atmosphärischen Rekonstruktion und dem Aufbau einer stabilen Biosphäre.
-
 ## Zusammenfassung
 
-Der Mars stellt in seinem aktuellen Zustand eine lebensfeindliche Umgebung dar: eine trockene Wüste mit extrem dünner Atmosphäre, hoher Strahlungsbelastung und fehlendem Magnetfeld. Das Ziel des Terraformings ist die Schaffung erdähnlicher Bedingungen (1 Bar Druck, 14 °C Durchschnittstemperatur, 21 % Sauerstoff). Der primäre technologische Ansatz sieht den Einsatz gigantischer, solarbetriebener Laser vor, um die Marsoberfläche zu schmelzen und so gebundenen Sauerstoff und Wasser freizusetzen. Da Stickstoff auf dem Mars mangelhaft ist, muss dieser in großem Stil vom Saturnmond Titan importiert werden. Langfristig erfordert die Stabilität der neuen Welt den Aufbau einer komplexen marinen und terrestrischen Biosphäre sowie die Installation eines künstlichen magnetischen Schutzschildes am Lagrange-Punkt L1.
+Der Mars stellt in seinem aktuellen Zustand eine lebensfeindliche Umgebung dar: eine trockene Wüste mit extrem dünner Atmosphäre, hoher Strahlungsbelastung und fehlendem Magnetfeld. Das Ziel des Terraformings ist die Schaffung erdähnlicher Bedingungen (1 Bar Druck, 14-18 °C Durchschnittstemperatur, 21 % Sauerstoff). Die Wichtigsten Technichen erungenschaften die von Nöten sind wären: Ein Fusions Reaktor, ein Laser doppelt so stark wie der bis jetzt stärkste laser und andere eher in der Zukunft liegende sachen. Jedoch ist das Terraformen des Mars Garnicht so unabwägich da wir entweder einen neuen Planeten für die Menschait finden müssen oder einen Erschaffen.
 
 ## 1. Die Ausgangslage: Der „Rote Planet"
 
@@ -25,17 +23,19 @@ Um eine atembare Atmosphäre zu schaffen, müssen die im Gestein gebundenen Gase
 
 Der zentrale Vorschlag nutzt die Thermolyse durch hochenergetische Laser in der Umlaufbahn:
 
-- **Mechanismus:** Schmelzen der obersten 8 Meter der Marsoberfläche. Pro Kubikmeter geschmolzenem Gestein werden ca. 750 kg Sauerstoff sowie Kohlendioxid frei.
+- **Maschienerie:** Schmelzen der obersten 8 Meter der Marsoberfläche. Pro Kubikmeter geschmolzenem Gestein werden ca. 750 kg Sauerstoff sowie Kohlendioxid frei.
 - **Energieversorgung:** Solarbetriebene Laser, unterstützt durch ein Spiegelsystem im All, das die elffache Fläche der USA einnimmt.
-- **Zeitrahmen:** Die Erzeugung einer Sauerstoffatmosphäre durch kontinuierliches Lasern wird auf etwa 50 Jahre geschätzt.
+- **Zeit:** Die Erzeugung einer Sauerstoffatmosphäre durch kontinuierliches Lasern wird auf etwa 50 Jahre geschätzt.
 
 ### Stickstoff-Import von Titan
 
-Da der Mars kaum Stickstoff besitzt, der für eine stabile Atmosphäre (Puffergas) und das Pflanzenwachstum essenziell ist, muss dieser importiert werden:
+Da der Mars kaum Stickstoff besitzt, der für eine stabile Atmosphäre und das Pflanzenwachstum essenziell ist, muss dieser importiert werden:
 
 - **Quelle:** Der Saturnmond Titan, dessen Atmosphäre fast vollständig aus Stickstoff besteht.
 - **Logistik:** Automatisierte Fabriken auf Titan verflüssigen Stickstoff; Massenbeschleuniger schießen Tanks zum Mars, wo sie in der Atmosphäre explodieren.
 - **Bedarf:** Ca. 300 Billionen Tonnen Stickstoff sind erforderlich; die Umsetzung würde etwa zwei Generationen beanspruchen.
+
+Das ist nur eine Möglichkeit man muss aber beachten das der Mars im schlimsten fall 1,7 Milliarden km vom Titan entfernt ist. Das heißt das man auch andere lösungen in betracht ziehen müsste.
 
 ## 3. Hydrosphäre und Bodenaufbereitung
 
