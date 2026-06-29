@@ -12,7 +12,7 @@ Der Mars verfügt derzeit über Merkmale, die eine menschliche Besiedlung ohne m
 
 - **Physikalische Daten:** Durchmesser von ca. 6.800 km, Gravitation entspricht nur dem 0,38-fachen der Erde.
 - **Atmosphäre:** Besteht zu ca. 95,9 % aus CO₂, ist extrem dünn und bietet keinen Schutz vor UV-Strahlung oder kosmischer Strahlung.
-- **Oberfläche:** Trockene Wüste, geprägt von Kratern, Lavagestein und Eisenoxiden (verantwortlich für die rote Farbe).
+- **Oberfläche:** trockene Wüste, geprägt von Kratern, Lavagestein und Eisenoxiden (verantwortlich für die rote Farbe).
 - **Ressourcenvorkommen:** Wasser ist in polaren Eiskappen und tiefen Untergrundreservoirs gefroren. Sauerstoff ist in Mineralien (Oxiden) und Carbonaten gebunden.
 
 ## 2. Technologische Rekonstruktion der Atmosphäre
@@ -25,25 +25,25 @@ Der zentrale Vorschlag nutzt die Thermolyse durch hochenergetische Laser in der 
 
 - **Maschienerie:** Schmelzen der obersten 8 Meter der Marsoberfläche. Pro Kubikmeter geschmolzenem Gestein werden ca. 750 kg Sauerstoff sowie Kohlendioxid frei.
 - **Energieversorgung:** Solarbetriebene Laser, unterstützt durch ein Spiegelsystem im All, das die elffache Fläche der USA einnimmt.
-- **Zeit:** Die Erzeugung einer Sauerstoffatmosphäre durch kontinuierliches Lasern wird auf etwa 50 Jahre geschätzt.
+- **Zeit:** die Erzeugung einer Sauerstoffatmosphäre durch kontinuierliches Lasern wird auf etwa 50 Jahre geschätzt.
 
 ### Stickstoff-Import von Titan
 
 Da der Mars kaum Stickstoff besitzt, der für eine stabile Atmosphäre und das Pflanzenwachstum essenziell ist, muss dieser importiert werden:
 
-- **Quelle:** Der Saturnmond Titan, dessen Atmosphäre fast vollständig aus Stickstoff besteht.
-- **Logistik:** Automatisierte Fabriken auf Titan verflüssigen Stickstoff; Massenbeschleuniger schießen Tanks zum Mars, wo sie in der Atmosphäre explodieren.
-- **Bedarf:** Ca. 300 Billionen Tonnen Stickstoff sind erforderlich; die Umsetzung würde etwa zwei Generationen beanspruchen.
+- **Quelle:** der Saturnmond Titan, dessen Atmosphäre fast vollständig aus Stickstoff besteht.
+- **Logistik:** automatisierte Fabriken auf Titan verflüssigen Stickstoff; Massenbeschleuniger schießen Tanks zum Mars, wo sie in der Atmosphäre explodieren.
+- **Bedarf:** ca. 300 Billionen Tonnen Stickstoff sind erforderlich; die Umsetzung würde etwa zwei Generationen beanspruchen.
 
-Das ist nur eine Möglichkeit man muss aber beachten das der Mars im schlimsten fall 1,7 Milliarden km vom Titan entfernt ist. Das heißt das man auch andere lösungen in betracht ziehen müsste.
+Das ist nur eine Möglichkeit man muss aber beachten das der Mars im schlimsten Fall 1,7 Milliarden km vom Titan entfernt ist. Das heißt das man auch andere Lösungen in betracht ziehen müsste.
 
 ## 3. Wasser und Bodenaufbereitung
 
 Ein entscheidender Nebeneffekt der lasergestützten Erwärmung ist die Freisetzung von Wasser.
 
-- **Ozeanbildung:** Das Schmelzen der Pole und unterirdischer Reservoirs lässt Wasserdampf aufsteigen, der als Regen herabfällt. Dies wäscht schädliche Gase (z. B. Chlor) aus der Atmosphäre und bildet seichte, salzhaltige Ozeane.
-- **Bodenfragmentierung:** Um fruchtbare Erde zu gewinnen, wird das Gestein durch punktuelles Erhitzen und Abkühlen (Kontraktion) mittels Laser in feinen Schlamm zerbröselt.
-- **Biologische Aktivierung:** Dem Schlamm werden stickstoffbindende Bakterien und Pilze zugesetzt, um Nitratverbindungen als Nährstoffbasis für Pflanzen zu schaffen.
+- **Ozeanbildung:** das Schmelzen der Pole und unterirdischer Reservoirs lässt Wasserdampf aufsteigen, der als Regen herabfällt. Dies wäscht schädliche Gase (z. B. Chlor) aus der Atmosphäre und bildet seichte, salzhaltige Ozeane.
+- **Bodenfragmentierung:** um fruchtbare Erde zu gewinnen, wird das Gestein durch punktuelles Erhitzen und Abkühlen (Kontraktion) mittels Laser in feinen Schlamm zerbröselt.
+- **Biologische Aktivierung:** dem Schlamm werden stickstoffbindende Bakterien und Pilze zugesetzt, um Nitratverbindungen als Nährstoffbasis für Pflanzen zu schaffen.
 
 ## 4. Aufbau einer Biosphäre
 
