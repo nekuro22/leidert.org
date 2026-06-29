@@ -4,7 +4,7 @@ Strategien und technologische Ansätze zum Terraforming des Mars
 
 ## Zusammenfassung
 
-Der Mars stellt in seinem aktuellen Zustand eine lebensfeindliche Umgebung dar: eine trockene Wüste mit extrem dünner Atmosphäre, hoher Strahlungsbelastung und fehlendem Magnetfeld. Das Ziel des Terraformings ist die Schaffung erdähnlicher Bedingungen (1 Bar Druck, 14-18 °C Durchschnittstemperatur, 21 % Sauerstoff). Die Wichtigsten Technichen erungenschaften die von Nöten sind wären: Ein Fusions Reaktor, ein Laser doppelt so stark wie der bis jetzt stärkste laser und andere eher in der Zukunft liegende sachen. Jedoch ist das Terraformen des Mars Garnicht so unabwägich da wir entweder einen neuen Planeten für die Menschait finden müssen oder einen Erschaffen.
+Der Mars stellt in seinem aktuellen Zustand eine lebensfeindliche Umgebung dar: eine trockene Wüste mit extrem dünner Atmosphäre, hoher Strahlungsbelastung und fehlendem Magnetfeld. Das Ziel des Terraformings ist die Schaffung erdähnlicher Bedingungen (1 Bar Druck, 14-18 °C Durchschnittstemperatur, 21 % Sauerstoff). Die wichtigsten technischen Erungenschaften die von Nöten sind wären: sinnvolle Nutzung von kalter Fusion,ein doppelt so starker Laser und andere auf jetzige Technologie basierenden Maschinen. 
 
 ## 1. Die Ausgangslage: Der „Rote Planet"
 
