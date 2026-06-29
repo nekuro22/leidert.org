@@ -45,7 +45,14 @@ Ein entscheidender Nebeneffekt der lasergestützten Erwärmung ist die Freisetzu
 - **Bodenfragmentierung:** um fruchtbare Erde zu gewinnen, wird das Gestein durch punktuelles Erhitzen und Abkühlen (Kontraktion) mittels Laser in feinen Schlamm zerbröselt.
 - **Biologische Aktivierung:** dem Schlamm werden stickstoffbindende Bakterien und Pilze zugesetzt, um Nitratverbindungen als Nährstoffbasis für Pflanzen zu schaffen.
 
-## 4. Aufbau einer Biosphäre
+## 4. Strahlungsschutz und künstliches Magnetfeld
+
+Damit Leben auf dem Mars existieren kann muss ein Strahlungsscutz erschaffen werden.
+
+- **Künstliches Magnetfeld:** Installation eines magnetischen Schutzfeldes am Mars-Sonne-Lagrange-Punkt (L1). Ein supraleitender Ring, betrieben durch Kernkraft, könnte den Sonnenwind um den Planeten herumlenken.
+- **Künstlicher Plasama Ring** Auch möglich wäre es einen Ring aus Plasma um den Mars zu ziehen der den Ionisiert wird.
+
+## 5. Aufbau einer Biosphäre
 
 Die Installation des Lebens erfolgt in mehreren Etappen, um ökologische Instabilitäten zu minimieren.
 
@@ -59,7 +66,7 @@ Die Installation des Lebens erfolgt in mehreren Etappen, um ökologische Instabi
 - **Pionierpflanzen:** Einsatz von Arten vulkanischer Inseln der Erde, die an aschehaltige Böden angepasst sind (Flechten, Moose).
 - **Wälder:** Bäume würden aufgrund der geringen Schwerkraft sehr schnell sehr hoch wachsen. Ihre Wurzeln beschleunigen die Zersetzung von Gestein in fruchtbaren Boden.
 
-## 5. Chemische Prozesse zur lokalen Ressourcennutzung
+## 6. Chemische Prozesse zur lokalen Ressourcennutzung
 
 Für erste Stationen und die Energieversorgung können bekannte chemische Reaktionen genutzt werden:
 
@@ -71,7 +78,7 @@ Für erste Stationen und die Energieversorgung können bekannte chemische Reakti
 
 Das MOXIE-Experiment der NASA hat bereits erfolgreich die Gewinnung von Sauerstoff aus atmosphärischem CO₂ demonstriert.
 
-## 6. Langzeitschutz und Stabilität
+## 7. Langzeitschutz und Stabilität
 
 Ohne schützende Maßnahmen würde die neue Atmosphäre durch den Sonnenwind erodiert werden.
 
