@@ -121,10 +121,10 @@
 - [ABB.3](http://spiegel.de/thema/mars_mission/p2/)
 
 ### Folie 11
-- [ABB.4 (mit Canva erstellt)](canva.com)
-- [ABB.5 (mit Canva erstellt)](canva.com)
-- [ABB.6 (mit Canva erstellt)](canva.com)
-- [ABB.7 (mit Canva erstellt)](canva.com)
+- [ABB.4 (mit Canva erstellt)](https://canva.com)
+- [ABB.5 (mit Canva erstellt)](https://canva.com)
+- [ABB.6 (mit Canva erstellt)](https://canva.com)
+- [ABB.7 (mit Canva erstellt)](https://canva.com)
 
 ### Folie 12
 - Keine Abbildung
