@@ -52,7 +52,7 @@ Damit Leben auf dem Mars existieren kann muss ein Strahlungsscutz erschaffen wer
 - **Künstliches Magnetfeld:** Installation eines magnetischen Schutzfeldes am Mars-Sonne-Lagrange-Punkt (L1). Ein supraleitender Ring, betrieben durch Kernkraft, könnte den Sonnenwind um den Planeten herumlenken.
 - **Künstlicher Plasama Ring** Auch möglich wäre es einen Ring aus Plasma um den Mars zu ziehen der den Ionisiert wird.
 
-## 5. Erste Lebensinseln
+## 5. Vorbeireitung Biosphäre
 
 Bevor ein komplettes Marsklima umgestaltet werden kann, müssen kleine, kontrollierte Lebensräume entstehen.
 
