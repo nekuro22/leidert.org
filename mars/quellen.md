@@ -127,50 +127,53 @@
 - [ABB.7 (mit Canva erstellt)](canva.com)
 
 ### Folie 12
-- [ABB.8](https://www.esa.int/kids/de/Neues/ESA-Satellit_entdeckt_Methan_auf_dem_Mars)
+- Keine Abbildung
 
 ### Folie 13
-- [ABB.9](https://de.wikipedia.org/wiki/Space:_1889#/media/Datei:MARS-Viking.jpg)
+- [ABB.8](https://www.esa.int/kids/de/Neues/ESA-Satellit_entdeckt_Methan_auf_dem_Mars)
 
 ### Folie 14
+- [ABB.9](https://de.wikipedia.org/wiki/Space:_1889#/media/Datei:MARS-Viking.jpg)
+
+### Folie 15
 - [ABB.10](https://de.wikipedia.org/wiki/Space:_1889#/media/Datei:MARS-Viking.jpg)
 
-### Folie 15-17
+### Folie 16-18
 - ABB. 11: Zeichnung von [Nikas] das ein Gewächaus darstellt
 
-### Folie 18
+### Folie 19
 - [ABB.12](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fwhat-planet-would-you-like-to-live-on-if-you-were-in-star-v0-f2if8t867txe1.png%3Fwidth%3D2944%26format%3Dpng%26auto%3Dwebp%26s%3D6500afb4666a9ec2cbf98dd5bf9fda1cf0144345)
 
-### Folie 19
+### Folie 20
 - [ABB.13](https://de.wikipedia.org/wiki/Space:_1889#/media/Datei:MARS-Viking.jpg)
 
-### Folie 20-27
+### Folie 21-28
 - [ABB.14](https://de.wikipedia.org/wiki/NGC_4388)
 
-### Folie 26
+### Folie 27
 - ABB.15: Zeichnung von [Christoph] das einen Plasma Tourus darstellt
 
-### Folie 28
+### Folie 29
 - [ABB.16](https://de.wikipedia.org/wiki/Datei:AncientMars.jpg)
 
-### Folie 29-30
+### Folie 30-31
 - [ABB.17](https://www.mottcorp.com/de/application/space-solutions/)
 
-### Folie 31
+### Folie 32
 - [ABB.18](https://static.vecteezy.com/ti/fotos-kostenlos/p2/2379095-oberflachenwelligkeit-unterwasser-blau-ozean-mit-sonnenstrahl-im-tropischen-meer-foto.jpg)
 - [ABB.19](https://wissenschaft.de/artikel/fluessiges-wasser-in-der-marskruste)
 - [ABB.20](https://de.wikipedia.org/wiki/Kallisto_%28Mond%29)
 - [ABB.21](https://cell-to-singularity.fandom.com/wiki/Ganymede)
 - [ABB.22](https://als.wikipedia.org/wiki/Europa_%28Mond%29)
 
-### Folie 32
+### Folie 33
 - [ABB.23](https://www.sun.org/de/images/mars-with-water)
 
-### Folie 33-34
+### Folie 34-35
 - Abbildung Ki Generiert
 
-### Folie 35
+### Folie 36
 - [ABB.24](https://static.vecteezy.com/ti/fotos-kostenlos/p2/2379095-oberflachenwelligkeit-unterwasser-blau-ozean-mit-sonnenstrahl-im-tropischen-meer-foto.jpg)
 
-### Folie 36
+### Folie 37
 - ABB.25: Abbildung Ki Generiert

@@ -52,7 +52,16 @@ Damit Leben auf dem Mars existieren kann muss ein Strahlungsscutz erschaffen wer
 - **Künstliches Magnetfeld:** Installation eines magnetischen Schutzfeldes am Mars-Sonne-Lagrange-Punkt (L1). Ein supraleitender Ring, betrieben durch Kernkraft, könnte den Sonnenwind um den Planeten herumlenken.
 - **Künstlicher Plasama Ring** Auch möglich wäre es einen Ring aus Plasma um den Mars zu ziehen der den Ionisiert wird.
 
-## 5. Aufbau einer Biosphäre
+## 5. Erste Lebensinseln
+
+Bevor ein komplettes Marsklima umgestaltet werden kann, müssen kleine, kontrollierte Lebensräume entstehen.
+
+- **Schutzräume:** Unterirdische Habitate und Druckkapseln bieten den ersten Siedlern Sicherheit vor Strahlung und Temperaturschwankungen.
+- **Künstliche Versorgung:** Wasser, Sauerstoff und Nahrung werden zunächst bewusst bereitgestellt, damit die erste Besiedlung stabil bleibt.
+- **Schrittweise Anpassung:** Mikroben, Pflanzen und einfache Tierarten werden zuerst in kleinen Testbereichen eingesetzt, bevor größere Ökosysteme aufgebaut werden.
+- **Ziel:** Erfahrungen sammeln, Fehler begrenzen und das Risiko eines ökologischen Kollapses reduzieren.
+
+## 6. Aufbau einer Biosphäre
 
 Die Installation des Lebens erfolgt in mehreren Etappen, um ökologische Instabilitäten zu minimieren.
 
@@ -66,7 +75,7 @@ Die Installation des Lebens erfolgt in mehreren Etappen, um ökologische Instabi
 - **Pionierpflanzen:** Einsatz von Arten vulkanischer Inseln der Erde, die an aschehaltige Böden angepasst sind (Flechten, Moose).
 - **Wälder:** Bäume würden aufgrund der geringen Schwerkraft sehr schnell sehr hoch wachsen. Ihre Wurzeln beschleunigen die Zersetzung von Gestein in fruchtbaren Boden.
 
-## 6. Chemische Prozesse zur lokalen Ressourcennutzung
+## 7. Chemische Prozesse zur lokalen Ressourcennutzung
 
 Für erste Stationen und die Energieversorgung können bekannte chemische Reaktionen genutzt werden:
 
@@ -78,7 +87,7 @@ Für erste Stationen und die Energieversorgung können bekannte chemische Reakti
 
 Das MOXIE-Experiment der NASA hat bereits erfolgreich die Gewinnung von Sauerstoff aus atmosphärischem CO₂ demonstriert.
 
-## 7. Langzeitschutz und Stabilität
+## 8. Langzeitschutz und Stabilität
 
 Ohne schützende Maßnahmen würde die neue Atmosphäre durch den Sonnenwind erodiert werden.
 
